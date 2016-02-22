@@ -1,0 +1,30 @@
+{
+  "name": "test_pod_2",
+  "version": "0.1.0",
+  "summary": "CocoaPods documentation could be improved...",
+  "description": "Pod description. It's a pod",
+  "homepage": "https://github.com/ExoticObjects/test_cocoapods_use_frameworks_2",
+  "license": "MIT",
+  "authors": {
+    "Exotic Objects": "jim@exoticobjects.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/ExoticObjects/test_cocoapods_use_frameworks_2.git"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "dependencies": {
+    "STHTTPRequest": [
+      "1.0.2"
+    ],
+    "SDWebImage": [
+
+    ],
+    "Socket.IO-Client-Swift": [
+      "5.3.1"
+    ]
+  }
+}

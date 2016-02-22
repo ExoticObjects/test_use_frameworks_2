@@ -1,0 +1,29 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations/Pods_test_use_frameworks_2_test_pod_2.xml
+.idea/runConfigurations/Pods_test_use_frameworks_2UITests_test_pod_2.xml
+.idea/runConfigurations/test_pod_2.xml
+.idea/test_use_frameworks_2.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/xcode.xml
