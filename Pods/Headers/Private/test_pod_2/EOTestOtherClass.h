@@ -1,1 +1,1 @@
-../../../../../test_pod_2/Pod/Classes/EOTestOtherClass.h
+../../../test_pod_2/Pod/Classes/EOTestOtherClass.h

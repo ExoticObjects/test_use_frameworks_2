@@ -83,13 +83,13 @@ strip_invalid_archs() {
 }
 
 
-if [[ "$CONFIGURATION" == "Release" ]]; then
+if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-test_use_frameworks_2/SDWebImage.framework"
   install_framework "Pods-test_use_frameworks_2/STHTTPRequest.framework"
   install_framework "Pods-test_use_frameworks_2/SocketIOClientSwift.framework"
   install_framework "Pods-test_use_frameworks_2/test_pod_2.framework"
 fi
-if [[ "$CONFIGURATION" == "Debug" ]]; then
+if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-test_use_frameworks_2/SDWebImage.framework"
   install_framework "Pods-test_use_frameworks_2/STHTTPRequest.framework"
   install_framework "Pods-test_use_frameworks_2/SocketIOClientSwift.framework"

@@ -10,11 +10,16 @@ PODS:
     - STHTTPRequest (= 1.0.2)
 
 DEPENDENCIES:
-  - test_pod_2 (from `../test_pod_2`)
+  - test_pod_2 (from `https://github.com/ExoticObjects/test_pod_2.git`)
 
 EXTERNAL SOURCES:
   test_pod_2:
-    :path: "../test_pod_2"
+    :git: https://github.com/ExoticObjects/test_pod_2.git
+
+CHECKOUT OPTIONS:
+  test_pod_2:
+    :commit: 8fbc5bed87e85f54d014c5d62c823203f2e18338
+    :git: https://github.com/ExoticObjects/test_pod_2.git
 
 SPEC CHECKSUMS:
   SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461

@@ -6,7 +6,7 @@
 //  Copyright © 2016 Jim Kremens. All rights reserved.
 //
 
-//#import <test_pod_2/EOTestUseFrameworks.h>
+#import <test_pod_2/EOTestUseFrameworks.h>
 #import "AppDelegate.h"
 
 @interface AppDelegate ()

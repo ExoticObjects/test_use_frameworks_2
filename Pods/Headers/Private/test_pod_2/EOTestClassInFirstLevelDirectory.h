@@ -1,1 +1,1 @@
-../../../../../test_pod_2/Pod/Classes/dir/EOTestClassInFirstLevelDirectory.h
+../../../test_pod_2/Pod/Classes/dir/EOTestClassInFirstLevelDirectory.h

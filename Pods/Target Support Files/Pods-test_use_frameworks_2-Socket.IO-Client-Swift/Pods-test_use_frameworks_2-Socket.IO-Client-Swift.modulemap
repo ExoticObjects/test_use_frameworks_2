@@ -1,6 +1,0 @@
-framework module SocketIOClientSwift {
-  umbrella header "Pods-test_use_frameworks_2-Socket.IO-Client-Swift-umbrella.h"
-
-  export *
-  module * { export * }
-}

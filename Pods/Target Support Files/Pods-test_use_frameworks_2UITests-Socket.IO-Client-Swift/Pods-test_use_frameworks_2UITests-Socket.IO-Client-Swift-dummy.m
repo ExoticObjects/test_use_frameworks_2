@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_test_use_frameworks_2UITests_Socket_IO_Client_Swift : NSObject
-@end
-@implementation PodsDummy_Pods_test_use_frameworks_2UITests_Socket_IO_Client_Swift
-@end
