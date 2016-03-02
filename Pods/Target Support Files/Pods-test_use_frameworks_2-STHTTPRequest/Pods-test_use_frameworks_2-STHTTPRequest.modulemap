@@ -1,0 +1,6 @@
+framework module STHTTPRequest {
+  umbrella header "Pods-test_use_frameworks_2-STHTTPRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   test_pod_2:
-    :commit: 8fbc5bed87e85f54d014c5d62c823203f2e18338
+    :commit: a01a14b75906c87fd77a03031a712f4864f252c6
     :git: https://github.com/ExoticObjects/test_pod_2.git
 
 SPEC CHECKSUMS:
